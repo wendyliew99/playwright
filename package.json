@@ -7,5 +7,9 @@
     "@playwright/test": "^1.39.0",
     "@types/node": "^20.9.0"
   },
-  "scripts": {}
+  "scripts": {},
+  "dependencies": {
+    "luxon": "^3.4.3",
+    "rimraf": "^5.0.5"
+  }
 }
